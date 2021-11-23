@@ -1,0 +1,51 @@
+body{
+    margin: 0;  
+    background-color:whitesmoke ;
+  }
+  header{
+      background-color: cornflowerblue;
+      padding: 30px;
+  }
+  #head{
+      font-size: 25px;
+      margin-left: 50px;
+  }
+  .hl{
+      margin-left: 10px;
+      padding: 5px;
+      text-decoration: none;
+      color: black;
+  }
+  #small{
+      margin: 0;
+      font-size: 15px;
+  }
+  a{
+      text-decoration: none;
+  }
+  div{
+      margin: 50px;
+      margin-left: 60px;
+  }
+  #wiki{
+      font-size: 30px;
+  }
+  label{
+      font-size: 25px;
+      font-family:  cursive;
+  }
+  pre{
+      margin: 0;
+      font-size: 17px;
+  }
+  dt{
+      padding: 5px;
+      font-size: 17px;
+  }
+  table{
+      height: 100px;
+      text-align: left;
+      width: 40%; 
+      margin-right: 900px;
+      border-spacing: 0;
+        }
